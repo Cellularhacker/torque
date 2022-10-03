@@ -536,3 +536,5 @@ tpackages/
 src/mom_rcp/pbs_rcp
 .c9/
 torque.setup
+.vscode/
+.idea/
